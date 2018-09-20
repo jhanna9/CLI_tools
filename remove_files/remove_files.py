@@ -11,3 +11,17 @@ for current_folder, subfolders, file_names in os.walk(my_path):
 				print(os.remove(possible_deletions))
 				print('{} has been removed.'.format(possible_deletions))
 				print('\n')
+
+
+'''
+flag for file extension
+
+flag for file size in bytes
+
+flag for file name
+
+path to folder containing files to be deleted
+
+help section
+
+'''

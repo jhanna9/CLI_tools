@@ -1,3 +1,11 @@
+'''Delete files by name, extension, size, or a combination of the three
+
+    cli flags:
+
+    file name (optional)
+    file extension (optional)
+    files size (optional)
+'''
 import os
 
 my_path = 'C:/Users/J/Documents/python/book1-exercises/chp09/practice_files/little pics'
